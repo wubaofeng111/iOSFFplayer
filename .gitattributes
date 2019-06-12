@@ -1,0 +1,8 @@
+FFmpeg-iOS/lib/ filter=lfs diff=lfs merge=lfs -text
+FFmpeg-iOS/lib/libavcodec.a filter=lfs diff=lfs merge=lfs -text
+FFmpeg-iOS/lib/libavdevice.a filter=lfs diff=lfs merge=lfs -text
+FFmpeg-iOS/lib/libavfilter.a filter=lfs diff=lfs merge=lfs -text
+FFmpeg-iOS/lib/libavformat.a filter=lfs diff=lfs merge=lfs -text
+FFmpeg-iOS/lib/libavutil.a filter=lfs diff=lfs merge=lfs -text
+FFmpeg-iOS/lib/libswresample.a filter=lfs diff=lfs merge=lfs -text
+FFmpeg-iOS/lib/libswscale.a filter=lfs diff=lfs merge=lfs -text
