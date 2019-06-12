@@ -19,6 +19,11 @@
     [super viewDidLoad];
     
 }
+
+void ffmpeg_callback(int code,char* msg)
+{
+    printf("%s\n",msg);
+}
 - (IBAction)ScaleVideo:(id)sender {
     char **a = malloc(sizeof(int*)*10) ;
     a[0] = "ffmpeg";
@@ -28,8 +33,10 @@
     a[4] = "320x320";
     a[5] = "/Users/friday/Downloads/out1123.mp4";
     
-    ffmpeg_main(6,a);
+    ffmpeg_main(6,a,ffmpeg_callback);
 }
+
+
 
 -(IBAction)GetVoice:(id)sender
 {
@@ -45,7 +52,7 @@
     a[5] = "-vn";
     a[6] = "/Users/friday/Downloads/out1123.mp3";
 #endif
-    ffmpeg_main(7,a);
+    ffmpeg_main(7,a,ffmpeg_callback);
 }
 
 

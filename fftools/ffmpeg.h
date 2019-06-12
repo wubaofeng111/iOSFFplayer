@@ -620,8 +620,9 @@ extern AVBufferRef *hw_device_ctx;
 extern char *qsv_device;
 #endif
 extern HWDevice *filter_hw_device;
+extern void(*mffmpeg_callback)(int,char*);
 
-int ffmpeg_main(int argc, char **argv);
+int ffmpeg_main(int argc, char **argv,void(*ffmpeg_callback)(int code,char*msg));
 
 void term_init(void);
 void term_exit(void);

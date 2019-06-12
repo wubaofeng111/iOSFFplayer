@@ -158,6 +158,8 @@ int         nb_output_files   = 0;
 FilterGraph **filtergraphs;
 int        nb_filtergraphs;
 
+void(*mffmpeg_callback)(int,char*);
+
 #if HAVE_TERMIOS_H
 
 /* init terminal so that we can grab keys */
@@ -4839,8 +4841,9 @@ static void log_callback_null(void *ptr, int level, const char *fmt, va_list vl)
 {
 }
 
-int ffmpeg_main(int argc, char **argv)
+int ffmpeg_main(int argc, char **argv,void(*callback)(int code,char*msg))
 {
+    mffmpeg_callback = callback;
     int i, ret;
     BenchmarkTimeStamps ti;
 
