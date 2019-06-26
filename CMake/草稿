@@ -76,3 +76,7 @@ clang -x c -arch arm64 -fmessage-length=0
 
 
 ERROR ITMS-90507: "Missing Info.plist value. A value for the key 'DTPlatformName' in bundle VideoApp.app is required."
+
+lipo -create /Users/qiuzhongwei/Desktop/HaveCar_Pad\ -\ ww\ 2/HaveCar_Pad/Framework/AipBase.framework/AipBase.i386.a
+/Users/qiuzhongwei/Desktop/HaveCar_Pad\ -\ ww\ 2/HaveCar_Pad/Framework/AipBase.framework/AipBase.arm.a 
+-output /Users/qiuzhongwei/Desktop/HaveCar_Pad\ -\ ww\ 2/HaveCar_Pad/Framework/AipBase.framework/AipBase.a
