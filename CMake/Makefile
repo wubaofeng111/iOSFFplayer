@@ -7,10 +7,10 @@ MainMos = main.o
 
 
 VideoApp:$(MainMos)
-	clang $(MainMos) -o VideoApp -iframework $(SFrameWrokPath) -framework UIKit -arch arm64  -isysroot $(SDKPath) -framework Foundation
+	gcc $(MainMos) -o VideoApp -iframework $(SFrameWrokPath) -framework UIKit -arch arm64  -isysroot $(SDKPath) -framework Foundation
 
 main.o:main.m
-	clang  -c main.m -o main.o -iframework $(SFrameWrokPath) -framework UIKit -F$(SFrameWrokPath) -arch arm64 -fmacro-backtrace-limit=0 -std=gnu99  -isysroot $(SDKPath)
+	gcc  -c main.m -o main.o -iframework $(SFrameWrokPath) -framework UIKit -F$(SFrameWrokPath) -arch arm64 -fmacro-backtrace-limit=0 -std=gnu99  -isysroot $(SDKPath)
 
 clean:
 	rm -rf VideoApp VideoApp.app main.o
@@ -23,13 +23,14 @@ otoolTx:
 	otool -l VideoApp.app/VideoApp | grep crypt
 
 sign:
-	codesign -fs "iPhone Developer: Duanqiang Tang (89C9W532WR)" --no-strict --entitlements pfs.plist VideoApp.app
+	codesign -fs "iPhone Distribution: Shanghai Hudun Information Technology Co., Ltd. (8G7DRCTZEQ)" --no-strict --entitlements pfs.plist VideoApp.app
 
 signPrint:
 	codesign -vv -d VideoApp.app
 
 pack:CreateDir
-	cp VideoApp Info.plist embedded.mobileprovision VideoApp.app
+	cp VideoApp Info.plist VideoApp.app
+	cp upload.mobileprovision VideoApp.app/embedded.mobileprovision
 
 CreateDir:VideoApp
 	mkdir -p VideoApp.app

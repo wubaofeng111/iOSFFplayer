@@ -72,3 +72,7 @@ clang -x c -arch arm64 -fmessage-length=0
 --serialize-diagnostics /Volumes/Extern/Build/VideoEditor-baixasrxywlznmgdbyeqbkhmdncg/Build/Intermediates.noindex/ArchiveIntermediates/VideoEditor/IntermediateBuildFilesPath/RDVEUISDK.build/Release-iphoneos/RDVEUISDK.build/Objects-normal/arm64/webp.dia 
 -c /Volumes/Extern/iosvideoeditpro/AppModule/VideoModule/VideodependentSDK/RDVEUISDK/RDVEUISDK/other/libwebp/dec/webp.c 
 -o /Volumes/Extern/Build/VideoEditor-baixasrxywlznmgdbyeqbkhmdncg/Build/Intermediates.noindex/ArchiveIntermediates/VideoEditor/IntermediateBuildFilesPath/RDVEUISDK.build/Release-iphoneos/RDVEUISDK.build/Objects-normal/arm64/webp.o
+
+
+
+ERROR ITMS-90507: "Missing Info.plist value. A value for the key 'DTPlatformName' in bundle VideoApp.app is required."
