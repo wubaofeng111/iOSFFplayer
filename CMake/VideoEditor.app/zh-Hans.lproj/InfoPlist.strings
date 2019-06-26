@@ -1,0 +1,17 @@
+/* 
+  InfoPlist.strings
+  VideoEditor
+
+  Created by friday on 2019/4/19.
+  Copyright © 2019 friday. All rights reserved.
+*/
+
+"CFBundleDisplayName"="清爽视频编辑器";
+"NSAppleMusicUsageDescription"="清爽视频编辑器需要获取音乐库权限";
+"NSCameraUsageDescription"="清爽视频编辑器需要相机权限实现拍摄功能";
+"NSMicrophoneUsageDescription"="清爽视频编辑器需要话筒权限实现录音功能";
+"NSPhotoLibraryUsageDescription"="清爽视频编辑器需要相册权限实现视频导出";
+"NSPhotoLibraryAddUsageDescription"="清爽视频编辑器需要相册权限实现视频导出";
+
+
+"UILaunchStoryboardName"="LaunchScreen_zhs";

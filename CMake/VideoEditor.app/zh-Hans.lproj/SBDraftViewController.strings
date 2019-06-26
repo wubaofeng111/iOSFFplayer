@@ -1,0 +1,22 @@
+/* 
+  SBDraftViewController.strings
+  VideoEditor
+
+  Created by friday on 2019/6/12.
+  Copyright © 2019 friday. All rights reserved.
+*/
+
+"draft_no_data_tip" = "这里没有数据";
+"exporting_hud_text" = "正在导出";
+
+
+"tip_str"="提示";
+"tip_content_str"="确定删除?";
+"delete_suc_msg"="删除成功";
+
+"cancle_btn_title"="取消";
+"confirmation_btn_title"="确定";
+
+"file_dismiss_tip_text" = "文件丢失，是否删除草稿";
+"edit_completed_tip_text" = "编辑完成，是否删除草稿";
+"toast_text_exporting"="导出中...";

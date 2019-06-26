@@ -1,0 +1,22 @@
+"title_Membership_privileges"="Membership privileges";
+"btn_Dewatermark"="Dewatermark";
+"btn_Adjustment"="Parameter settings";
+"btn_HD_export"="HD Export";
+"btn_Unlimited_use"="Unlimited use";
+"btn_Template"="Templates";
+"btn_No_Ads"="No Ads";
+"btn_Edit_a_Vide"="Video Editing";
+"btn_Motion"="Video Effrects";
+"btn_More_Functions"="More Functions";
+"vip_describe"="Statement on automatic renewal\
+Payment: The automatic renewal product will be deducted from your Apple iTunes account after you confirm the purchase.\
+Renewal Members: 24 hours before the expiration date of the refreshing video editor member you subscribed to, Apple will automatically deduct the corresponding fee from your iTunes account. After success, the refreshing video editor membership service will automatically extend a cycle.\
+Cancellation of renewal: If you need to cancel the automatic renewal, please close the automatic renewal at least 24 hours before the end of the subscription cycle, and no charge will be deducted after the closure. If it is not cancelled 24 hours before the expiration date, it will automatically renew.\
+Cancellation method: from the Home page to 「Settings」, 「iTunes Store and App Store」, Select「 Apple ID」,「View Apple ID」,「Subscribe」in the Account Settings page to select「Fresh Video Editor」to cancel the subscription.";
+"net_error_tip"    = "Please check your network";
+"LoadingIAPProduct"="Data Loading";
+"legal_provision"="Terms of Use";
+"privacy_policy"="Privacy Policy";
+"LoadingAppStore"="正在购买，请稍后";
+"vc_title"="VIP member";
+"btn_restore"="Restore";

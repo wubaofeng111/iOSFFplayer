@@ -1,0 +1,23 @@
+/* 
+  SBDraftViewController.strings
+  VideoEditor
+
+  Created by friday on 2019/6/12.
+  Copyright © 2019 friday. All rights reserved.
+*/
+
+"draft_no_data_tip" = "Here is no data";
+"exporting_hud_text" = "Exporting";
+
+
+"tip_str"="Tips";
+"tip_content_str"="Make sure delete it?";
+"delete_suc_msg"="Delete Success";
+
+"cancle_btn_title"="Cancel";
+"confirmation_btn_title"="Confirm";
+
+"file_dismiss_tip_text" = "File missing, determine to delete the draft";
+"edit_completed_tip_text" = "Edit completed, delete the draft?";
+"toast_text_exporting"="Exporting";
+

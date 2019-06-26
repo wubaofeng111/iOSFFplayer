@@ -1,0 +1,8 @@
+"CFBundleDisplayName" = "清爽視頻編輯器";
+"NSAppleMusicUsageDescription"="清爽視頻編輯器需要獲取音樂庫權限";
+"NSCameraUsageDescription"="清爽視頻編輯器需要相機權限實現拍攝功能";
+"NSMicrophoneUsageDescription"="清爽視頻編輯器需要話筒權限實現錄音功能";
+"NSPhotoLibraryUsageDescription"="清爽視頻編輯器需要相冊權限實現視頻導出";
+"NSPhotoLibraryAddUsageDescription"="清爽視頻編輯器需要相冊權限實現視頻導出";
+
+"UILaunchStoryboardName"="LaunchScreen_zht";

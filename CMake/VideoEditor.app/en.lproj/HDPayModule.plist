@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.hdgame.xjvideoeditor.vip</key>
+	<dict>
+		<key>productIdentifier</key>
+		<string>com.hdgame.xjvideoeditor.vip</string>
+		<key>ID</key>
+		<string>500</string>
+		<key>cycleStr</key>
+		<string>Lifelong</string>
+		<key>isSuggest</key>
+		<string>YES</string>
+		<key>subTitle</key>
+		<string>Enjoy Your Permanent VIP Privileges.</string>
+		<key>productType</key>
+		<string>Non-consumption</string>
+	</dict>
+	<key>com.hdgame.xjvideoeditor.vip1</key>
+	<dict>
+		<key>productIdentifier</key>
+		<string>com.hdgame.xjvideoeditor.vip1</string>
+		<key>ID</key>
+		<string>501</string>
+		<key>cycleStr</key>
+		<string>Year</string>
+		<key>subTitle</key>
+		<string>Automatic renewal your subscription Yearly and you can turn it off at any time.</string>
+		<key>productType</key>
+		<string>Subscription</string>
+	</dict>
+	<key>com.hdgame.xjvideoeditor.vip2</key>
+	<dict>
+		<key>productIdentifier</key>
+		<string>com.hdgame.xjvideoeditor.vip2</string>
+		<key>ID</key>
+		<string>502</string>
+		<key>cycleStr</key>
+		<string>HalfYear</string>
+		<key>subTitle</key>
+		<string>Automatic renewal your subscription Half-Yearly and you can turn it off at any time.</string>
+		<key>productType</key>
+		<string>Subscription</string>
+	</dict>
+	<key>com.hdgame.xjvideoeditor.vip3</key>
+	<dict>
+		<key>productIdentifier</key>
+		<string>com.hdgame.xjvideoeditor.vip3</string>
+		<key>ID</key>
+		<string>503</string>
+		<key>cycleStr</key>
+		<string>Month</string>
+		<key>subTitle</key>
+		<string>Automatic renewal your subscription Monthly and you can turn it off at any time.</string>
+		<key>productType</key>
+		<string>Subscription</string>
+	</dict>
+</dict>
+</plist>

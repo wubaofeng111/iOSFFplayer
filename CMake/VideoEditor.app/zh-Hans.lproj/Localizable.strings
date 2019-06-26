@@ -1,0 +1,17 @@
+"legal_provision"="服务条款";
+"privacy_policy"="隐私政策";
+"hd_email"="support@huduntech.com";
+"hd_tel_phone_num"="400-888-5870";
+"common_date_formate_str" = "yyyy年MM月dd日 HH:mm:ss";
+
+"released_success_toast_text" = "已成功保存至相册";
+"saved_draft_success"="已保存至“作品库-草稿箱”";
+
+"hasLeafVip" = "到期日期：永久";
+"normal_vip_text" = "到期日期：%@";
+"mine_vip_title"="尊敬的会员用户";
+
+"resumerole_10060"="未知错误，请稍户再试";
+"resumerole_10061"="您未购买过任何产品";
+"resumerole_10062"="您的设备不需要进行恢复购买,如有其它问题请联系客服";
+"resumerole_error"="发生错误，请稍后再试一次";

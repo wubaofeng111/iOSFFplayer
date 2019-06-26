@@ -1,0 +1,18 @@
+/* 
+  SBWorksViewController.strings
+  VideoEditor
+
+  Created by friday on 2019/6/11.
+  Copyright © 2019 friday. All rights reserved.
+*/
+
+
+"start_create_btn" = "开始创作";
+"load_more"="加载更多";
+"loading_data"="数据加载中";
+"tip_str"="提示";
+"tip_content_str"="确定删除?";
+"delete_suc_msg"="删除成功";
+
+"cancle_btn_title"="取消";
+"confirmation_btn_title"="确定";

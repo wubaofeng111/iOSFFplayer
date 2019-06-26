@@ -1,0 +1,16 @@
+/* 
+  BFAlertController.strings
+  VideoEditor
+
+  Created by friday on 2019/6/11.
+  Copyright © 2019 friday. All rights reserved.
+*/
+
+
+
+"email_title"="邮箱:";
+"tel_phone_title"="电话:";
+"ok_btn"="联系客服";
+
+"hi_btn_title" = "高清无水印";
+"lo_btn_title"="导出有水印";

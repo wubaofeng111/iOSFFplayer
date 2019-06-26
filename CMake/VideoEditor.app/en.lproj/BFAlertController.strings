@@ -1,0 +1,17 @@
+/* 
+  BFAlertController.strings
+  VideoEditor
+
+  Created by friday on 2019/6/11.
+  Copyright © 2019 friday. All rights reserved.
+*/
+
+
+
+"email_title"="Email:";
+"tel_phone_title"="Telephone:";
+"ok_btn"="OK";
+
+
+"hi_btn_title" = "Without Watermark";
+"lo_btn_title"="With Watermark";

@@ -1,0 +1,24 @@
+"title_Membership_privileges"="會員特權解鎖全部功能";
+"btn_Dewatermark"="導出無水印";
+"btn_Adjustment"="參數調整";
+"btn_HD_export"="高清導出";
+"btn_Unlimited_use"="使用無限制";
+"btn_Template"="視頻模板";
+"btn_No_Ads"="無廣告";
+"btn_Edit_a_Vide"="視頻編輯";
+"btn_Motion"="視頻特效";
+"btn_More_Functions"="更多功能";
+"vip_describe"="關於自動續費的聲明\
+付款：自動續費商品在您確定購買後，會從您的蘋果iTunes帳戶扣費；\
+續費會員：您訂閱的清爽視頻編輯器會員到期前24小時，蘋果會自動為您從iTunes帳號扣除相應費用，成功後清爽視頻編輯器會員服務自動延長一個週期\
+取消續費：若需要取消自動續費，請在訂閱週期結束前至少24小時關閉自動續訂，關閉後不再扣費；若未在到期前24小時取消，將自動續訂；\
+取消方法：從Home頁進入『設定』→『iTunes Store與App Store』→選擇『Apple ID』→點擊『查看Apple ID』→在帳戶設定頁面點擊『訂閱』→選擇『清爽視頻編輯器』取消訂閱即可。";
+
+"net_error_tip"    = "請檢查網絡";
+
+"LoadingIAPProduct"="正在加載數據";
+"legal_provision"="服务条款";
+"privacy_policy"="隐私政策";
+"LoadingAppStore"="正在购买，请稍后";
+"vc_title"="VIP 會員";
+"btn_restore"="恢復購買";

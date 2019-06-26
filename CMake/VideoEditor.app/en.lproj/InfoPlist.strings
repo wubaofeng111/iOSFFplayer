@@ -1,0 +1,11 @@
+"CFBundleDisplayName" = "Video Editor Assistant";
+"NSPhotoLibraryUsageDescription"="Access Photo Library to Save Video";
+"NSPhotoLibraryAddUsageDescription"="Access Photo Library to Save Video";
+
+"NSCameraUsageDescription"="Access Camera to Record Video";
+"NSMicrophoneUsageDescription"="Access Microphone to Record Audio";
+"NSAppleMusicUsageDescription"="Access Music Library to Use Music";
+
+"UILaunchStoryboardName"="LaunchScreen";
+
+

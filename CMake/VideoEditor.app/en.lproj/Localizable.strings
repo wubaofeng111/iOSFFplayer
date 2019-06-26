@@ -1,0 +1,25 @@
+"legal_provision"="Terms of Use";
+"privacy_policy"="Privacy Policy";
+
+"high_definition_waterless"="Without Watermark";
+"exporting_watermark"="With Watermark";
+
+"draft_no_data_tip"="Nothing Here";
+
+"hd_email"="support@huduntech.com";
+"hd_tel_phone_num"="400-888-5870";
+
+"common_date_formate_str" = "yyyy-MM-dd HH:mm:ss";
+
+"released_success_toast_text" = "Successful released";
+"saved_draft_success"="Saved to “Library-Draft Box”";
+
+"hasLeafVip" = "Maturity Date:Lifelong effectiveness";
+"normal_vip_text" = "Maturity Date:%@";
+"mine_vip_title"="Dear Member Users";
+
+
+"resumerole_10060"="Unknown error, please try again later";
+"resumerole_10061"="You have not purchased any products.";
+"resumerole_10062"="Your equipment does not need to be restored. If you have other problems, please contact customer service.";
+"resumerole_error"="Error occurred. Please try again later.";

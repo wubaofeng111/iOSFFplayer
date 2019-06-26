@@ -1,0 +1,29 @@
+Executable=/Users/friday/Documents/LearnExample/iOSFFplayer/CMake/VideoEditor.app/VideoEditor
+Identifier=com.hdgame.xjvideoeditor
+Format=app bundle with Mach-O thin (arm64)
+CodeDirectory v=20400 size=236860 flags=0x0(none) hashes=7393+5 location=embedded
+Signature size=4832
+Authority=iPhone Developer: Duanqiang Tang (89C9W532WR)
+Authority=Apple Worldwide Developer Relations Certification Authority
+Authority=Apple Root CA
+Signed Time=Jun 26, 2019 at 10:57:12 AM
+Info.plist entries=37
+TeamIdentifier=8G7DRCTZEQ
+Sealed Resources version=2 rules=10 files=1651
+Internal requirements count=1 size=188
+
+
+Executable=/Users/friday/Documents/LearnExample/iOSFFplayer/CMake/VideoApp.app/VideoApp
+Identifier=com.hdgame.xjvideoeditor
+Format=app bundle with Mach-O thin (arm64)
+CodeDirectory v=20400 size=636 flags=0x0(none) hashes=13+3 location=embedded
+Signature size=4751
+Authority=iPhone Developer: Duanqiang Tang (89C9W532WR)
+Authority=Apple Worldwide Developer Relations Certification Authority
+Authority=Apple Root CA
+Signed Time=Jun 26, 2019 at 11:57:37 AM
+Info.plist entries=23
+TeamIdentifier=8G7DRCTZEQ
+Sealed Resources version=2 rules=10 files=0
+Internal requirements count=1 size=188
+

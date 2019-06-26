@@ -1,0 +1,22 @@
+"title_Membership_privileges"="会员特权解锁全部功能";
+"btn_Dewatermark"="导出无水印";
+"btn_Adjustment"="参数调整";
+"btn_HD_export"="高清导出";
+"btn_Unlimited_use"="使用无限制";
+"btn_Template"="视频模版";
+"btn_No_Ads"="无广告";
+"btn_Edit_a_Vide"="视频编辑";
+"btn_Motion"="视频特效";
+"btn_More_Functions"="更对功能";
+"vip_describe"="关于自动续费的声明\
+付款:自动续费商品在您确定购买后，会从您的苹果iTunes账户扣费；\
+续费会员：您订阅的清爽视频编辑器会员到期前24小时，苹果会自动为您从iTunes账号扣除相应费用，成功后清爽视频编辑器会员服务自动延长一个周期\
+取消续费:若需要取消自动续费，请在订阅周期结束前至少24小时关闭自动续订，关闭后不再扣费；若未在到期前24小时取消，将自动续订；\
+取消方法：从Home页进入『设置』→『iTunes Store与App Store』→选择『Apple ID』→点击『查看Apple ID』→在账户设置页面点击『订阅』→选择『清爽视频编辑器』取消订阅即可。";
+"LoadingIAPProduct"="正在加载数据";
+"net_error_tip"    = "请检查网络";
+"legal_provision"="服务条款";
+"privacy_policy"="隐私政策";
+"LoadingAppStore"="正在购买，请稍后";
+"vc_title"="VIP会员";
+"btn_restore"="恢复购买";

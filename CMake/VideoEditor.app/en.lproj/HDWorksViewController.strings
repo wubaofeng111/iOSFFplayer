@@ -1,0 +1,10 @@
+/* 
+  HDWorksViewController.strings
+  VideoEditor
+
+  Created by friday on 2019/6/10.
+  Copyright © 2019 friday. All rights reserved.
+*/
+
+"btn_work_list" = "Work List";
+"btn_draft_list" = "Draft List";

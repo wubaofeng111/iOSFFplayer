@@ -1,0 +1,34 @@
+platform :ios, '9.0 '
+
+inhibit_all_warnings!  # 全局禁止显示警告
+target 'VideoEditor' do
+    pod 'CHPageControl'
+    pod 'SCLAlertView-Objective-C', '~> 1.1.6'
+    pod 'RadioButton', '~> 1.0'
+    pod 'Aspects', '~> 1.4.1'
+    pod 'YYKit', '~> 1.0.9'
+    pod 'AFNetworking', '~> 3.2.1'
+    pod 'Masonry', '~> 1.1.0'
+    pod 'UCAppDelegateReduce', '~> 1.0'
+    pod 'MJRefresh', '~> 3.1.16'
+    pod 'SDCycleScrollView', '~> 1.75'
+    pod 'MBProgressHUD', '~> 1.1.0'
+    pod 'FMDB', '~> 2.7.5'
+
+    
+    pod 'UMCCommon'
+    pod 'UMCSecurityPlugins'
+    pod 'UMCAnalytics'
+    # U-Share SDK UI模块（分享面板，建议添加）
+    pod 'UMCShare/UI'
+    # 集成微信(精简版0.2M)
+    pod 'UMCShare/Social/ReducedWeChat'
+    # 集成微信(完整版14.4M)
+    pod 'UMCShare/Social/WeChat'
+    # 集成QQ/QZone/TIM(精简版0.5M)
+    pod 'UMCShare/Social/ReducedQQ'
+    # 集成QQ/QZone/TIM(完整版7.6M)
+    pod 'UMCShare/Social/QQ'
+    
+end
+

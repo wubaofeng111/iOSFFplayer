@@ -1,0 +1,15 @@
+"视频分辨率为:%dX%d"="Resolution：%dX%d";
+"视频帧率为:%d"="Frame rate：%d";
+"视频码率为:%.2fM"="Bitrate：%.2fM";
+"改变视频分辨率"="Change resolution";
+"改变视频码率"="Change bitrate";
+"单位兆(M),默认6"="Mbps,Default 6";
+"压缩进度"="Compress progress";
+"视频分辨率为:0X0"="Resolution：0X0";
+"视频帧率为:0"="Frame rate：0";
+"视频码率为:0M"="Bitrate：0M";
+"压缩"="Compress";
+"请选择视频"="";
+"压缩进度%.2f%%"="Compress progress %.2f%%";
+"取消"="Cancel";
+"默认"="Default";

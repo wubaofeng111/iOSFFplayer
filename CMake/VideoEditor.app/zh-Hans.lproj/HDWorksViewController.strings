@@ -1,0 +1,9 @@
+/* 
+  HDWorksViewController.strings
+  VideoEditor
+
+  Created by friday on 2019/6/10.
+  Copyright © 2019 friday. All rights reserved.
+*/
+"btn_work_list" = "作品库";
+"btn_draft_list" = "草稿箱";

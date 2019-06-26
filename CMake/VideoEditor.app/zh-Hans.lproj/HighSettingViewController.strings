@@ -1,0 +1,63 @@
+
+"Dx6-VG-q8r.title"="高级配置";
+
+/* Class = "UILabel"; text = "拍摄设置"; ObjectID = "5XR-hT-Qp2"; */
+"5XR-hT-Qp2.text" = "拍摄设置";
+
+
+/* Class = "UILabel"; text = "拍摄设置"; ObjectID = "y7J-Ls-oaz"; */
+"y7J-Ls-oaz.text" = "拍摄设置";
+
+
+/* Class = "UIButton"; normalTitle = "1080"; ObjectID = "bx6-V1-m3W"; */
+"bx6-V1-m3W.normalTitle" = "1080";
+
+/* Class = "UIButton"; normalTitle = "720"; ObjectID = "KBj-9G-azJ"; */
+"KBj-9G-azJ.normalTitle" = "720";
+
+
+/* Class = "UILabel"; text = "输出设置"; ObjectID = "g6R-eV-kai"; */
+"g6R-eV-kai.text" = "输出设置";
+
+
+/* Class = "UILabel"; text = "输出分辨率"; ObjectID = "Cof-dA-h94"; */
+"Cof-dA-h94.text" = "输出分辨率";
+/*输出分辨率*/
+
+
+/* Class = "UIButton"; normalTitle = "1080"; ObjectID = "Pva-uU-1jZ"; */
+"Pva-uU-1jZ.normalTitle" = "4k";
+
+/* Class = "UIButton"; normalTitle = "1080"; ObjectID = "7Lk-dW-Yvu"; */
+"7Lk-dW-Yvu.normalTitle" = "1080";
+
+/* Class = "UIButton"; normalTitle = "1080"; ObjectID = "p5e-Ze-e9p"; */
+"p5e-Ze-e9p.normalTitle" = "720";
+
+/* Class = "UIButton"; normalTitle = "1080"; ObjectID = "S9d-Z7-d8V"; */
+"S9d-Z7-d8V.normalTitle" = "540";
+
+
+/* Class = "UILabel"; text = "码率"; ObjectID = "R3X-02-fiq"; */
+"R3X-02-fiq.text" = "码率";
+
+/* Class = "UITextField"; placeholder = "建议7MBPS,最大500Mbps"; ObjectID = "HTb-hC-Qdn"; */
+"HTb-hC-Qdn.placeholder" = "建议7MBPS,最大500Mbps";
+
+
+/* Class = "UILabel"; text = "Mbps"; ObjectID = "55S-mB-Z11"; */
+"55S-mB-Z11.text" = "Mbps";
+
+
+
+/* Class = "UILabel"; text = "其他"; ObjectID = "jKC-Bn-B3q"; */
+"jKC-Bn-B3q.text" = "其他";
+/* Class = "UILabel"; text = "背景模糊填充"; ObjectID = "hTV-5x-rld"; */
+"hTV-5x-rld.text" = "片尾水印";
+
+
+"E3U-w8-GJo.text" = "写入相册";
+
+
+"btn_title_done" = "完成";
+
